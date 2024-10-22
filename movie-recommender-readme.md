@@ -1,7 +1,7 @@
 # Movie Recommender System
 
 A sophisticated web application built with Streamlit that recommends movies based on user selection using content-based filtering and The Movie Database (TMDB) API.
-
+!IMPORTANT!!!!! Basically setup streamlit and api
 ## 🎬 Features
 
 - Interactive movie selection from a comprehensive database
